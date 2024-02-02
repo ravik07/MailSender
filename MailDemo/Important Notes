@@ -1,0 +1,14 @@
+Steps of Generate Temporary Password of Google Account
+
+
+1)Open Link -> https://myaccount.google.com/
+2)After Opening the link -> Click on "Security" option
+3)Click on "2-Step Verification" of How you sign in to Google
+4)After clicking on Above option you will get Google account login -> So enter your "login credentials" and click on "Next"
+5)Click on "App Passwords"
+6)Enter any "App name" as you want -> Click on "Create"
+7)Finally It will Generate Password -> Just Copy that Password and paste it in application.properties file, in front of password field 
+
+
+=========================================================================
+You can delete these password from above location
